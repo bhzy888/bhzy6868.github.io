@@ -12,7 +12,7 @@ a:hover{ text-decoration: underline;}
 .f16{font-size: 16px;}
 
 .home .section { position: relative; overflow: hidden; background: #fff; background-size: cover; text-align: center;}
-.background-image: url("https://i.vgy.me/78sXIO.jpg");background-size: 100% auto;background-position: center center;
+.background-image: url("https://i.vgy.me/78sXIO.jpg");background-repeat: no-repeat;background-position: center center;background-size: cover;text-align: center;}
 .shadow-bg { display: none; background: #000; opacity: 1; width: 100%; height: 100%; position: absolute; left: 0; top: 0; z-index: 99;}
 .shadow { display: block; background:url("../images/shaow_bg.png"/*tpa=http://www.1769.tv/images/shaow_bg.png*/); opacity: 1; width: 100%; height: 100%; position: absolute; left: 0; top: 0; z-index: 99;}
 
